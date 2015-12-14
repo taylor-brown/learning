@@ -12,6 +12,7 @@
 
 * https://en.wikipedia.org/wiki/Software_development_process
 * http://www.psl.cs.columbia.edu/classes/cs4156-cvn-m10/lectures/06Sep07.pdf
+* https://en.wikipedia.org/wiki/Continual_improvement_process
 
 ## Testing
 
