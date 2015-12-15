@@ -26,6 +26,7 @@
 * https://en.wikipedia.org/wiki/Software_architecture
 * http://www.psl.cs.columbia.edu/classes/cs4156-cvn-m10/lectures/11Oct07.pdf
 * http://www.cs.cmu.edu/afs/cs/project/able/www/paper_abstracts/intro_softarch.html
+* http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/lecture-notes/
 * https://en.wikipedia.org/wiki/Code_smell
 * https://en.wikipedia.org/wiki/Dependency_graph
 * http://www.joelonsoftware.com/articles/LeakyAbstractions.html
