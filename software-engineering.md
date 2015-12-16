@@ -1,5 +1,14 @@
 # Software Engineering
 
+## Prgramming
+### Self-test questions
+
+* What are the different programming paradigms?
+* When do you use a linked list, an array, a tree, or a hash map?
+
+### Resources
+
+* 
 
 ## Algorithms
 ### Self-test questions
