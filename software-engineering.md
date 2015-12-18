@@ -1,17 +1,19 @@
 # Software Engineering
 
-## Prgramming
-### Self-test questions
+## Programming
+### Screening questions
 
 * What are the different programming paradigms?
-* When do you use a linked list, an array, a tree, or a hash map?
+* Described a recursive algorithm.
 
 ### Resources
 
-* 
+* https://en.wikipedia.org/wiki/Programming_paradigm 
+* http://usi-pl.github.io/lc/sp-2015/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf
+* https://docs.oracle.com/javase/tutorial/java/concepts/
 
 ## Algorithms
-### Self-test questions
+### Screening questions
 
 * What is big O notation?
 * When do you use a linked list, an array, a tree, or a hash map?
@@ -26,7 +28,7 @@
 * https://msdn.microsoft.com/en-us/library/aa289148(VS.71).aspx
 
 ## Design Patterns
-### Self-test questions
+### Screening questions
 * What is a design pattern?
 * What patterns are built-in to java and/or scala?
 
@@ -40,8 +42,8 @@
 
 ## Process
 
-### Self-test questions
-* What developmental process do you use?
+### Screening questions
+* What development process do you use?
 * What are some of the deficiencies of your current process?
 
 ### Resources
@@ -52,7 +54,7 @@
 
 ## Testing
 
-### Self-test questions
+### Screening questions
 * What are the different types of tests and what are they used for?
 
 ### Resources
@@ -64,7 +66,7 @@
 
 ## Architecture
 
-### Self-test questions
+### Screening questions
 * What is tight coupling?
 * What is modularity?
 * What are some common system architectures used today?
@@ -81,7 +83,7 @@
 
 ## Release management
 
-### Self-test questions
+### Screening questions
 * Why is release management important?
 * What are some common release management associated tools?
 
