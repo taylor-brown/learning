@@ -13,3 +13,4 @@
 * http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
 * http://deeplearning.net/tutorial/
 * https://github.com/ujjwalkarn/Machine-Learning-Tutorials/
+* http://reproducibleresearch.net/

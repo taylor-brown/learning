@@ -93,3 +93,14 @@
 * https://inedo.com/whitepapers/Release_Management_%20Done_Right.pdf
 * https://en.wikipedia.org/wiki/Jenkins_(software)
 * http://maven.apache.org/maven-release/maven-release-plugin/
+
+## Documentation
+
+### Screening questions
+* What is the right amount of documentation?
+* What do you need to document?
+
+### Resources
+
+* http://www.agilemodeling.com/essays/agileDocumentation.htm
+* http://reproducibleresearch.net/
