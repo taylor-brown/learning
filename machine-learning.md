@@ -7,6 +7,7 @@
 
 ### Resources
 
+* https://www.reddit.com/r/MachineLearning/wiki/index
 * http://statweb.stanford.edu/~tibs/ElemStatLearn/
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/
 * http://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html
