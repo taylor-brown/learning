@@ -6,7 +6,8 @@
 * Replace all instances of foo with bar in a file.
 
 ### Resources
-* https://pacific.anisakai.com/access/content/user/cstutorials/Linux-Tutorial/index.html
-* http://lifehacker.com/399468/top-10-command-line-tools
+* https://en.wikipedia.org/wiki/Pipeline_(Unix)
+* http://www.cs.toronto.edu/~maclean/csc209/unixtools.html
 * http://fishshell.com/
 * http://gnometerminator.blogspot.com/p/introduction.html
+* https://csvkit.readthedocs.io/en/0.9.1/
